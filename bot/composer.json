@@ -1,0 +1,10 @@
+{
+    "name": "mytestbot/mytestbot",
+    "description": "mytestbot desc",
+    "type": "project",    
+    "require": {
+        "php": ">=5.5",
+        "longman/telegram-bot": "*",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
